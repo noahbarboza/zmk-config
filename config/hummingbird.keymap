@@ -77,7 +77,7 @@
         };
 
         Comma {
-            bindings = <&kp KP_COMMA>;
+            bindings = <&kp COMMA>;
             key-positions = <13 12>;
         };
 
@@ -92,12 +92,12 @@
         };
 
         ForwardSlash {
-            bindings = <&kp KP_SLASH>;
+            bindings = <&kp SLASH>;
             key-positions = <11 13>;
         };
 
         Dash {
-            bindings = <&kp KP_MINUS>;
+            bindings = <&kp MINUS>;
             key-positions = <18 16>;
         };
 
